@@ -1,4 +1,4 @@
-# gestaohoras
+# ServiceQuota
 Plugin para gestão de horas no GLPI
 
 > Já imaginou poder controlar a capacidade e a demanda presentes em sua esteira de serviços? 
